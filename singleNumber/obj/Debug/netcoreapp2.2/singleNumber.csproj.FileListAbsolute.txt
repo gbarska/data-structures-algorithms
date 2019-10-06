@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/bin/Debug/netcoreapp2.2/singleNumber.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/bin/Debug/netcoreapp2.2/singleNumber.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/bin/Debug/netcoreapp2.2/singleNumber.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/bin/Debug/netcoreapp2.2/singleNumber.dll
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/bin/Debug/netcoreapp2.2/singleNumber.pdb
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/obj/Debug/netcoreapp2.2/singleNumber.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/obj/Debug/netcoreapp2.2/singleNumber.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/obj/Debug/netcoreapp2.2/singleNumber.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/obj/Debug/netcoreapp2.2/singleNumber.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/obj/Debug/netcoreapp2.2/singleNumber.dll
+/home/gbarska/Desktop/data_structures_algorithms/singleNumber/obj/Debug/netcoreapp2.2/singleNumber.pdb

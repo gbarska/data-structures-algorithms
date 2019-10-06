@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/New Folder/bin/Debug/netcoreapp2.2/New Folder.deps.json
+/home/gbarska/Desktop/New Folder/bin/Debug/netcoreapp2.2/New Folder.runtimeconfig.json
+/home/gbarska/Desktop/New Folder/bin/Debug/netcoreapp2.2/New Folder.runtimeconfig.dev.json
+/home/gbarska/Desktop/New Folder/bin/Debug/netcoreapp2.2/New Folder.dll
+/home/gbarska/Desktop/New Folder/bin/Debug/netcoreapp2.2/New Folder.pdb
+/home/gbarska/Desktop/New Folder/obj/Debug/netcoreapp2.2/New Folder.csprojAssemblyReference.cache
+/home/gbarska/Desktop/New Folder/obj/Debug/netcoreapp2.2/New Folder.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/New Folder/obj/Debug/netcoreapp2.2/New Folder.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/New Folder/obj/Debug/netcoreapp2.2/New Folder.AssemblyInfo.cs
+/home/gbarska/Desktop/New Folder/obj/Debug/netcoreapp2.2/New Folder.dll
+/home/gbarska/Desktop/New Folder/obj/Debug/netcoreapp2.2/New Folder.pdb

@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/bin/Debug/netcoreapp2.2/firstUniqueCharacter.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/bin/Debug/netcoreapp2.2/firstUniqueCharacter.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/bin/Debug/netcoreapp2.2/firstUniqueCharacter.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/bin/Debug/netcoreapp2.2/firstUniqueCharacter.dll
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/bin/Debug/netcoreapp2.2/firstUniqueCharacter.pdb
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/obj/Debug/netcoreapp2.2/firstUniqueCharacter.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/obj/Debug/netcoreapp2.2/firstUniqueCharacter.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/obj/Debug/netcoreapp2.2/firstUniqueCharacter.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/obj/Debug/netcoreapp2.2/firstUniqueCharacter.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/obj/Debug/netcoreapp2.2/firstUniqueCharacter.dll
+/home/gbarska/Desktop/data_structures_algorithms/firstUniqueCharacter/obj/Debug/netcoreapp2.2/firstUniqueCharacter.pdb

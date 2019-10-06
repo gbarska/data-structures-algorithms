@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/bin/Debug/netcoreapp2.2/powerOfTwo.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/bin/Debug/netcoreapp2.2/powerOfTwo.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/bin/Debug/netcoreapp2.2/powerOfTwo.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/bin/Debug/netcoreapp2.2/powerOfTwo.dll
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/bin/Debug/netcoreapp2.2/powerOfTwo.pdb
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/obj/Debug/netcoreapp2.2/powerOfTwo.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/obj/Debug/netcoreapp2.2/powerOfTwo.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/obj/Debug/netcoreapp2.2/powerOfTwo.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/obj/Debug/netcoreapp2.2/powerOfTwo.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/obj/Debug/netcoreapp2.2/powerOfTwo.dll
+/home/gbarska/Desktop/data_structures_algorithms/powerOfTwo/obj/Debug/netcoreapp2.2/powerOfTwo.pdb
