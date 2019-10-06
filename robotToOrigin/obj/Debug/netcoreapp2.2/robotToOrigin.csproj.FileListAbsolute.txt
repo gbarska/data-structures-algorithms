@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/bin/Debug/netcoreapp2.2/robotToOrigin.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/bin/Debug/netcoreapp2.2/robotToOrigin.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/bin/Debug/netcoreapp2.2/robotToOrigin.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/bin/Debug/netcoreapp2.2/robotToOrigin.dll
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/bin/Debug/netcoreapp2.2/robotToOrigin.pdb
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/obj/Debug/netcoreapp2.2/robotToOrigin.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/obj/Debug/netcoreapp2.2/robotToOrigin.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/obj/Debug/netcoreapp2.2/robotToOrigin.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/obj/Debug/netcoreapp2.2/robotToOrigin.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/obj/Debug/netcoreapp2.2/robotToOrigin.dll
+/home/gbarska/Desktop/data_structures_algorithms/robotToOrigin/obj/Debug/netcoreapp2.2/robotToOrigin.pdb
