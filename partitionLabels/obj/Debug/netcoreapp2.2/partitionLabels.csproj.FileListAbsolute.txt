@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/obj/Debug/netcoreapp2.2/partitionLabels.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/obj/Debug/netcoreapp2.2/partitionLabels.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/obj/Debug/netcoreapp2.2/partitionLabels.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/obj/Debug/netcoreapp2.2/partitionLabels.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/bin/Debug/netcoreapp2.2/partitionLabels.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/bin/Debug/netcoreapp2.2/partitionLabels.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/bin/Debug/netcoreapp2.2/partitionLabels.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/bin/Debug/netcoreapp2.2/partitionLabels.dll
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/bin/Debug/netcoreapp2.2/partitionLabels.pdb
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/obj/Debug/netcoreapp2.2/partitionLabels.dll
+/home/gbarska/Desktop/data_structures_algorithms/partitionLabels/obj/Debug/netcoreapp2.2/partitionLabels.pdb

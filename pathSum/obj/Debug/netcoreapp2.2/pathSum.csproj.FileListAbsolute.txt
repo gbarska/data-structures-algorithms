@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/obj/Debug/netcoreapp2.2/pathSum.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/obj/Debug/netcoreapp2.2/pathSum.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/obj/Debug/netcoreapp2.2/pathSum.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/obj/Debug/netcoreapp2.2/pathSum.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/bin/Debug/netcoreapp2.2/pathSum.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/bin/Debug/netcoreapp2.2/pathSum.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/bin/Debug/netcoreapp2.2/pathSum.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/bin/Debug/netcoreapp2.2/pathSum.dll
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/bin/Debug/netcoreapp2.2/pathSum.pdb
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/obj/Debug/netcoreapp2.2/pathSum.dll
+/home/gbarska/Desktop/data_structures_algorithms/pathSum/obj/Debug/netcoreapp2.2/pathSum.pdb

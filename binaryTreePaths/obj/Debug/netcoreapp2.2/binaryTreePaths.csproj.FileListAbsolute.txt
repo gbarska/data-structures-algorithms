@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/obj/Debug/netcoreapp2.2/binaryTreePaths.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/obj/Debug/netcoreapp2.2/binaryTreePaths.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/obj/Debug/netcoreapp2.2/binaryTreePaths.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/obj/Debug/netcoreapp2.2/binaryTreePaths.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/bin/Debug/netcoreapp2.2/binaryTreePaths.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/bin/Debug/netcoreapp2.2/binaryTreePaths.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/bin/Debug/netcoreapp2.2/binaryTreePaths.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/bin/Debug/netcoreapp2.2/binaryTreePaths.dll
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/bin/Debug/netcoreapp2.2/binaryTreePaths.pdb
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/obj/Debug/netcoreapp2.2/binaryTreePaths.dll
+/home/gbarska/Desktop/data_structures_algorithms/binaryTreePaths/obj/Debug/netcoreapp2.2/binaryTreePaths.pdb

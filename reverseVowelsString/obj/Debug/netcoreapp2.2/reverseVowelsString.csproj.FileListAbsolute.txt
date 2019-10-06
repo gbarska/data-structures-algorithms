@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/obj/Debug/netcoreapp2.2/reverseVowelsString.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/obj/Debug/netcoreapp2.2/reverseVowelsString.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/obj/Debug/netcoreapp2.2/reverseVowelsString.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/obj/Debug/netcoreapp2.2/reverseVowelsString.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/bin/Debug/netcoreapp2.2/reverseVowelsString.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/bin/Debug/netcoreapp2.2/reverseVowelsString.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/bin/Debug/netcoreapp2.2/reverseVowelsString.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/bin/Debug/netcoreapp2.2/reverseVowelsString.dll
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/bin/Debug/netcoreapp2.2/reverseVowelsString.pdb
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/obj/Debug/netcoreapp2.2/reverseVowelsString.dll
+/home/gbarska/Desktop/data_structures_algorithms/reverseVowelsString/obj/Debug/netcoreapp2.2/reverseVowelsString.pdb
