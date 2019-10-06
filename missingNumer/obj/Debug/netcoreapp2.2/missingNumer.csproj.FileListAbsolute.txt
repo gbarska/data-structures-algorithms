@@ -1,0 +1,11 @@
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/bin/Debug/netcoreapp2.2/missingNumer.deps.json
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/bin/Debug/netcoreapp2.2/missingNumer.runtimeconfig.json
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/bin/Debug/netcoreapp2.2/missingNumer.runtimeconfig.dev.json
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/bin/Debug/netcoreapp2.2/missingNumer.dll
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/bin/Debug/netcoreapp2.2/missingNumer.pdb
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/obj/Debug/netcoreapp2.2/missingNumer.csprojAssemblyReference.cache
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/obj/Debug/netcoreapp2.2/missingNumer.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/obj/Debug/netcoreapp2.2/missingNumer.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/obj/Debug/netcoreapp2.2/missingNumer.AssemblyInfo.cs
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/obj/Debug/netcoreapp2.2/missingNumer.dll
+/home/gbarska/Desktop/data_structures_algorithms/missingNumer/obj/Debug/netcoreapp2.2/missingNumer.pdb
